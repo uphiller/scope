@@ -31,4 +31,5 @@ A simple way to get Scope running in a Kubernetes setting is to
    ```sh
    kubectl port-forward svc/weave-scope-app -n weave 4040:80
    ```
-1. Point your browser to http://127.0.0.1:4040.
+
+1. Point your browser to <http://127.0.0.1:4040.>
